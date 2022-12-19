@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.box{
+    width: max-content;
+    margin: 10rem auto;
+    display: flex;
+    flex-direction: column  ;
+    align-items: center;
+    
+}
+.clanovi{
+    display: flex;
+    font-size: 5rem;
+}
+.clan{
+    display: flex;
+}
+#dugme{
+    font-size: 2rem;
+}
+#dugmeStop{
+    font-size: 2rem;
+}
+#dugmeAgain{
+    font-size: 2rem;
+}
+#settingLap{
+    font-size: 2rem;
+}
